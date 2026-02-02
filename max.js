@@ -28,5 +28,5 @@ console.log(play);
 
 // get max with max() function
 
-const max = Math.max(12.343,3434,334,676755,54,3353,343,2323,2323,23);
+const max = Math.max(12343,3434,334,676755,54,3353,343,2323,2323,23);
 console.log("get the max value with Math.max(): ", max);
